@@ -1,6 +1,3 @@
-## 20200731
-* merge from soffchen
-
 ## 20200723
 * Docker
 
