@@ -1,3 +1,18 @@
+## 20200819
+* 移除 luci-app-clash
+* OpenClash 内置 TUN/Game 二进制文件
+
+## 20200817
+* Clash 更新到 v1.1.0
+
+## 20200815
+* 开启 luci-app-adguardhome
+* 开启 luci-app-jd-dailybonus
+* 替换 node 为 https://github.com/nxhack/openwrt-node-packages/
+
+## 20200809
+* 新增 luci-app-oled
+
 ## 20200723
 * Docker
 
@@ -58,4 +73,4 @@
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
 
-test new action 3
+2
