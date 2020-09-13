@@ -1,5 +1,5 @@
-## 20200902
-* 修改 clash package 链接路径
+## 20200909
+* 更新 SmartDNS
 
 ## 20200819
 * 移除 luci-app-clash

@@ -52,6 +52,7 @@ jobs:
           git clone https://github.com/coolsnowwolf/lede
           cd friendlywrt
           cp -r ../lede/package/lean package/
+          cp -r ../lede/package/libs/pcre package/libs/
           sed -i 's/^src-git luci.*/src-git luci https:\/\/github.com\/coolsnowwolf\/luci/' feeds.conf.default
           sed -i 's/^src-git packages.*/src-git packages https:\/\/github.com\/coolsnowwolf\/packages/' feeds.conf.default
           echo 'src-git node https://github.com/nxhack/openwrt-node-packages.git' >> feeds.conf.default
@@ -94,7 +95,7 @@ jobs:
           cd code/friendlywrt/package/base-files/files
           mkdir -p etc/openclash/core
           wget -qO- https://github.com/Dreamacro/clash/releases/download/v1.1.0/clash-linux-armv8-v1.1.0.gz | gunzip -c > etc/openclash/core/clash
-          wget -qO- https://github.com/vernesong/OpenClash/releases/download/TUN-Premium/clash-linux-armv7-2020.08.26.g3803f5f.gz | gunzip -c > etc/openclash/core/clash_tun
+          wget -qO- https://github.com/vernesong/OpenClash/releases/download/TUN-Premium/clash-linux-armv7-2020.09.05.gaf1a58d.gz | gunzip -c > etc/openclash/core/clash_tun
           wget -qO- https://github.com/vernesong/OpenClash/releases/download/TUN/clash-linux-armv7.tar.gz | tar xOvz > etc/openclash/core/clash_game
           chmod +x etc/openclash/core/clash*
 
