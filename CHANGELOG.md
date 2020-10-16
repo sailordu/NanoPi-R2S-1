@@ -1,7 +1,7 @@
 ## 20201016
 * 替换rtl8812au驱动
-   设置80MHz频宽
-   TxPower可调
+   1.设置80MHz频宽
+   2.TxPower可调
 
 ## 20200909
 * 更新 SmartDNS
