@@ -1,3 +1,6 @@
+## 20201017
+* 删除node-request，与luci-app-jd-dailybonus冲突
+
 ## 20201016
 * 替换rtl8812au驱动
    1.设置80MHz频宽
