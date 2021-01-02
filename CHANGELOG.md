@@ -1,3 +1,6 @@
+## 20201102
+* 常规更新
+
 ## 20201017
 * 删除node-request，与luci-app-jd-dailybonus冲突
 
