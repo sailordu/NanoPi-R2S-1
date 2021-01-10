@@ -1,3 +1,5 @@
+# Disable ZeroTier 2021-01-11
+
 # 使用 Github Actions 在线编译 NanoPi-R2S 固件
 
 * NanoPi R2S CNC 官方金属壳版 购买链接: [https://s.click.taobao.com/ZPSFRyu](https://s.click.taobao.com/ZPSFRyu) 
