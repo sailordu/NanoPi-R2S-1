@@ -1,3 +1,6 @@
+## 2021-01-11
+* Disable ZeroTier
+
 ## 20210103
 * 更新OpencClash源链接
 
