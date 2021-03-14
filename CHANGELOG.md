@@ -1,3 +1,27 @@
+## 20210303
+* 日常更新
+* 修复 trogan-go 无法运行的问题
+
+## 20210210
+* Docker
+
+## 20210208
+* 集成 luci-app-dockerman
+* 修复 UnblockNeteaseMusicGo 无法启动的问题
+
+## 20210206
+* 开机挂载 Docker 资料分区
+
+## 20210202
+* Make OTA Work Again
+
+## 20210130
+* 更新 netdata
+* 修复 OpenClash 依赖问题
+
+## 20210124
+* 修复 frp 无法启动的问题
+
 ## 20210121
 * 更新到 19.07.5
 * Kernel 5.10.2
@@ -90,4 +114,3 @@
 * 添加 frpc 和 npc
 * 支持 Full Cone NAT
 
-2
